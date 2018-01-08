@@ -396,4 +396,6 @@ a:hover {
 
 .about-section {
     text-align: justify;
+    max-width: 80%;
+    margin: auto;
 }
