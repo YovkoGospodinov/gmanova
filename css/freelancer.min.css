@@ -399,3 +399,8 @@ a:hover {
     max-width: 80%;
     margin: auto;
 }
+
+.portfolio-grid-label {
+    text-align: center;
+    color: #2c3e50
+}
