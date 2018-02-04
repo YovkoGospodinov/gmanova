@@ -172,6 +172,9 @@ section h2 {
     #mainNav.navbar-shrink .navbar-brand {
         font-size: 1.5em
     }
+    .item {
+        height: 600px
+    }
 }
 
 header.masthead {
