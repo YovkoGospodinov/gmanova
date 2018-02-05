@@ -173,7 +173,7 @@ section h2 {
         font-size: 1.5em
     }
     .item {
-        height: 600px
+        height: auto;
     }
 }
 
