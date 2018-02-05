@@ -173,7 +173,6 @@ section h2 {
         font-size: 1.5em
     }
     .item {
-        height: auto;
         margin-right: auto;
         margin-left: auto
     }
@@ -408,4 +407,11 @@ a:hover {
 .portfolio-grid-label {
     text-align: center;
     color: #2c3e50
+}
+
+@media (max-width:992px) {
+    .owl-carousel .owl-item img {
+        display: block;
+        width: 100%;
+    }
 }
