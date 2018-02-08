@@ -215,7 +215,8 @@ header.masthead h2 {
     position: relative;
     display: block;
     max-width: 25rem;
-    margin-bottom: 15px
+    margin-bottom: 15px;
+    outline: none
 }
 
 .portfolio .portfolio-item .portfolio-item-caption {
